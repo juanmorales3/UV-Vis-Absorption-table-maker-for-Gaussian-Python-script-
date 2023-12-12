@@ -42,7 +42,7 @@ in this option, the program will calculate the energy difference between your ca
 last number). 
 
 "Write (in nm) the wavelength of experimental absorbance number " n " "
-- In case you put something other than 0 in the last option, the program will ask you for the wavelength of your experimental absorbance peaks (in nm, in number).
+- In case you put something other than 0 in the previous option, the program will ask you for the wavelength of your experimental absorbance peaks (in nm, in number).
 Example 1: you choose "1" absorbance peak and write "358" in this option. That is 358 nm. The program will calculate the energy of the peak (3.45 eV) based on the wavelength. It will calculate the energy difference between the experimental peak
 of 358 nm and all of your calculated absorbance peaks (which you will see on the table, third column, last number). If one of your calculated absorbance peak is, for example, of 422 nm (2.94 eV), the energy difference will be 2.94 - 3.45 = -0.51 eV and 
 in the third column you will see: 2.94 (422) -0.51.
